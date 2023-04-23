@@ -5,7 +5,7 @@
                         
                                  ¯\_(ツ)_/¯
 
-# Arsenal
+<p align="center" > Arsenal </p>
 
 ## Languages
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />&nbsp;
