@@ -7,13 +7,16 @@
 
 <h1 align="center">Arsenal</h1>
 
-<p align="center">Languages</p>
+<p align="center">Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="50" height="50" /> &nbsp;
+
+</p>
 
 
 <p align="center"> 
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" /> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  width="50" height="50" /> &nbsp;
+  
           
 
 </p>
