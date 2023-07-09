@@ -7,8 +7,8 @@
   </a>
   <div>
     ¯\_(ツ)_/¯
-  <div> \\
-       _/ \_ </div>
+  <div> \\</div>
+  <div>_/ \_ </div>
   </div>
 </div><br><br><br>
 
